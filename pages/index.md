@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Home
-permalink: /
+Title: Home
+Permalink: /home/
 ---
 
 # Welcome to Team 9044: The TeraViks!
